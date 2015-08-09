@@ -8,7 +8,7 @@
  *
  * @package Redaxscript
  * @category Modules
- * @author Dimitri Schreiber
+ * @author 
  */
 
 function YahooWeather_install()
