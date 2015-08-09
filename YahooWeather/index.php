@@ -15,7 +15,7 @@ function YahooWeather_loader_start()
  * @author Dimitri Schreiber
  */
 
-function YahooWeather($citykey='GMXX2254',$cityname ='Altötting', $correct=-60, $time_difference=1)
+function YahooWeather($citykey='GMXX2254',$cityname ='München', $correct=-60, $time_difference=1)
 {
 include("/modules/YahooWeather/YahooWeather.php"); 
 try {
