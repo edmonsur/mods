@@ -31,7 +31,7 @@ function YahooWeather_install()
  * @since 1.2.1
  * @deprecated 2.0.0
  *
-
+ */
 
 function YahooWeather_uninstall()
 {
