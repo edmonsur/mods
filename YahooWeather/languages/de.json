@@ -1,0 +1,20 @@
+{
+	"_YahooWeather":
+	{
+		"desc": "Wetter mit 4 Tages Vorhersage",
+		"forecast": "Wetterlage:",
+		"sun": "Sonntag",
+		"mon": "Montag",
+		"tue": "Dienstag",
+		"wed": "Mittwoch",
+		"thu": "Donnerstag",
+		"fri": "Freitag",
+		"sat": "Samstag",
+	    "notfound": "Nichts gefunden",
+		"currentconditions": "Aktuelle Wetterlage in ",
+		"today": "am heutigen ",
+		
+		
+	
+	}
+}

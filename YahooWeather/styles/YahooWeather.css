@@ -1,0 +1,89 @@
+/* Hintergrundfarbe wechseln mit Farbübergang (Transitions) */
+
+img.zoom {
+transition: transform 0.7s;
+}
+
+img.zoom:hover {
+transform: scale(1.5, 1.5);
+}
+/* Hintergrundfarbe wechseln mit Farbübergang (Transitions) */
+.desc{
+    margin: 0px 0px 15px;
+    font-size: 18px;
+    color: #FB8000;
+}
+.current_temperature {
+    display: block;
+    margin: 0px 0px -10px;
+    padding: 21px 0px 0px;
+    font-size: 40px;
+    line-height: 1;
+    font-weight: bold;
+    color: #444;
+
+	}
+.weather_image {
+    width: 25%;
+    height: 100px;
+    float: left;
+    padding-top: 20px;
+    text-align: center;
+}
+.weather_temperature {
+    width: 25%;
+    height: 120px;
+    float: left;
+    margin-left: 40px;
+}
+.weather{
+    margin-top: 25px;
+    border-bottom: 2px solid #999;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+}
+.weather_humidity {
+ margin-right: 2.5%;
+    height: 87px;
+    float: right;
+    padding-top: 33px;
+}
+.weather_forecast {
+    height: 65px;
+    border-bottom: 1px solid #CCC;
+}
+.weather_forecast_day {
+    width: 20%;
+    height: 45px;
+    float: left;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+.weather_forecast_image {
+    width: 20%;
+    height: 45px;
+    float: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.weather_forecast_condition {
+    width: 40%;
+    float: left;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+.weather_forecast_high {
+    width: 20%;
+    height: 45px;
+    float: right;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+.weather_forecast_precip {
+    width: 145px;
+    height: 45px;
+    float: left;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
