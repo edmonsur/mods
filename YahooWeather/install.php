@@ -8,7 +8,7 @@
  *
  * @package Redaxscript
  * @category Modules
- * @author 
+ * @author edmonsur
  */
 
 function YahooWeather_install()
@@ -31,10 +31,7 @@ function YahooWeather_install()
  * @since 1.2.1
  * @deprecated 2.0.0
  *
- * @package Redaxscript
- * @category Modules
- * @author  Dimitri Schreiber
- */
+
 
 function YahooWeather_uninstall()
 {
